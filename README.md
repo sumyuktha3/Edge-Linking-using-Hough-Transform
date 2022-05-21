@@ -86,13 +86,16 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-![o1](https://user-images.githubusercontent.com/77089743/169016070-6f2303a4-70a2-47e2-a1ed-ae73260f12b3.PNG)
+
+![s1](https://user-images.githubusercontent.com/75235818/169633279-587b8ba2-59d5-400e-82be-39191d7090b0.jpg)
 
 ### Canny Edge detector output
-![o2](https://user-images.githubusercontent.com/77089743/169016125-a1d95728-b6f6-4131-8798-65adac95495d.PNG)
+
+![s2](https://user-images.githubusercontent.com/75235818/169633371-adee6e71-af81-477e-8a4c-6a13425dd734.jpg)
 
 ### Display the result of Hough transform
-![o3](https://user-images.githubusercontent.com/77089743/169016204-28ae3d7f-639e-4034-81d3-8ba80e6c3013.PNG)
+
+![s3](https://user-images.githubusercontent.com/75235818/169633381-ee24c260-c1b1-4e98-b7d0-afedd9d9800d.jpg)
 
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
